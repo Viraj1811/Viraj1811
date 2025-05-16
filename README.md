@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎯 I’m currently working on<br>Sharpening my skills in software development, problem-solving, and building a strong foundation in core computer science concepts.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, learning groups, or innovative ideas where I can contribute and grow alongside others.<br><br>🧠 I’m looking for help with<br>Understanding advanced data structures & algorithms, writing clean and efficient code, and exploring best practices in full-stack development.<br><br>🌱 I’m currently learning<br>Python, JavaScript, Git & GitHub, and diving deeper into Artificial Intelligence and machine learning fundamentals.<br><br>💬 Ask me about<br>Coding practices, debugging tips, learning resources, or anything tech-related that you're curious about!<br><br>⚡ Fun fact<br>I love solving puzzles and challenges — whether it's a coding problem or a brain teaser, I'm always up for it!
 
 
